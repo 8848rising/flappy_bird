@@ -1,3 +1,7 @@
+
+
+https://user-images.githubusercontent.com/37270043/125150559-4a05c680-e15e-11eb-8da8-b6be92235a70.mp4
+
 # flappy_bird
 
 A Simple flappy bird game on Arduino. Using only the Aidafurit library for graphics other things are built from scratch.
